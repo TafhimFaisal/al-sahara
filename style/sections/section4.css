@@ -1,0 +1,31 @@
+.section-4{
+    background-image: 
+    linear-gradient(90deg, rgba(249,166,24,0.9) 3%, rgba(242,116,33,0.9) 63%, rgba(235,102,33,0.9) 94%),
+    url('/Images/section/section4.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding:150px 20px
+}
+
+.section-4-content-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0px;
+}
+
+.section-4-numbers {
+    border-right: 2px solid white;
+    font-size: 64px;
+    color: white;
+    font-weight: 100;
+    padding-right: 14px;
+}
+
+.section-4-text {
+    font-size: 31px;
+    color: white;
+    font-weight: 100;
+    margin-left: 15px;
+}

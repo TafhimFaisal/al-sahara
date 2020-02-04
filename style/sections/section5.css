@@ -1,0 +1,18 @@
+.section-5-content h2{
+    font-size: 40px;
+    font-weight: bold;
+    color: darkblue;
+}
+
+.section-5-content {
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+.section-5-content p{
+    color: rgba(128, 128, 128, 0.966);
+}

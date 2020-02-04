@@ -1,0 +1,7 @@
+.section-1 {
+    height: 300px;
+}
+
+.section-1>.row {
+    margin-top: 5%;
+}

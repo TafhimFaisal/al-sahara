@@ -1,0 +1,12 @@
+@import './header.css';
+@import './navbar.css';
+@import './banner.css';
+@import './sections.css';
+@import './footer.css';
+@import './slider';
+@import './section.css';
+
+.content-wrapper {
+    background-color: white;
+}
+

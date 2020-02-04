@@ -1,0 +1,21 @@
+.section-2{
+    background-image: 
+    linear-gradient(90deg, rgba(249,166,24,0.9) 3%, rgba(242,116,33,0.9) 63%, rgba(235,102,33,0.9) 94%),
+    url('/Images/section/cctv-02.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:100%;
+    padding: 100px;
+    color: white;
+}
+
+.section-2-box {
+    padding: 20px;
+}
+
+.inside-box{
+    border: 1px solid white;
+    padding:30px
+
+}

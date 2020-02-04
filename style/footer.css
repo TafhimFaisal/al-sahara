@@ -1,0 +1,23 @@
+.main-footer{
+    background-image:
+    linear-gradient(90deg, rgba(249,166,24,0.7) 3%, rgba(242,116,33,0.7) 63%, rgba(235,102,33,0.6979166666666667) 94%),
+    url('/Images/footer/footer.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    border-top: none;
+}
+
+.incon{
+    
+}
+.manpower-supply-services{
+    
+}
+.areas-of-expertise{
+    
+}
+.footer-contact-us{
+    
+}
