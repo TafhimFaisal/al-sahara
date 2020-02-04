@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="section-5-image">
-                    <img src="/Images/section/section-1.png" width="100%" alt="" srcset="">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/section/section-1.png" width="100%" alt="" srcset="">
                 </div>
 
             </div>

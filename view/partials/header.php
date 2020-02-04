@@ -5,7 +5,7 @@
         <div class="row">
             
             <div class="col-2">
-                <img class="mt-3" src="./Images/logos/logo-final.jpeg" height="100px" width="100px" alt="" srcset="">
+                <img class="mt-3" src="http://<?=$_SERVER['HTTP_HOST']?>/Images/logos/logo-final.jpeg" height="100px" width="100px" alt="" srcset="">
             </div>
             
             <div class="col-10 contact-info">

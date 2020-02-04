@@ -9,7 +9,7 @@
             </p>
         </div>
         <div class="col-md-6">
-            <img src="/Images/section/section-1.1.png" height="100%" width="100%" alt="" srcset="">
+            <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/section/section-1.1.png" height="100%" width="100%" alt="" srcset="">
         </div>
     </div>
 </div>

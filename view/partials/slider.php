@@ -6,13 +6,13 @@
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/Images/slider-image/PAGE-02.png" height="425px" class="d-block w-100" alt="...">
+      <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/slider-image/PAGE-02.png" height="425px" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/Images/slider-image/slider-6.png" height="425px" class="d-block w-100" alt="...">
+      <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/slider-image/slider-6.png" height="425px" class="d-block w-100" alt="...">
     </div>
     <div class="carousel-item">
-      <img src="/Images/slider-image/slider-9.png" height="425px" class="d-block w-100" alt="...">
+      <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/slider-image/slider-9.png" height="425px" class="d-block w-100" alt="...">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">

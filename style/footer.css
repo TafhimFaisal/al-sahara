@@ -5,19 +5,46 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    height: 300px;
+    /* height: 300px; */
     border-top: none;
+    color: white;
+    font-weight: 100;
+    padding-top: 20px;
+}
+.main-footer h2{
+    font-weight: 100;
+
 }
 
-.incon{
+
+.main-footer a{
+    color: white;
+}
+
+.main-footer ul li {
+    list-style: none;
     
+}
+
+.main-footer ul {
+    margin-left: 0px;
+    padding-left: 0px;
+}
+
+
+.incon{
+
 }
 .manpower-supply-services{
-    
+
 }
 .areas-of-expertise{
-    
+
 }
 .footer-contact-us{
-    
+
+}
+.footer-info{
+    margin-top: 10px;
+    border-top: 1px solid white;
 }
