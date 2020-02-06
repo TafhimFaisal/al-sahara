@@ -5,6 +5,8 @@
 @import './footer.css';
 @import './slider';
 @import './section.css';
+@import './about-us.css';
+@import './why-choose-us.css';
 
 .content-wrapper {
     background-color: white;
