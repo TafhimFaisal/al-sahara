@@ -4,7 +4,8 @@
             <div class="col-md-3 incon">
                 <img src="/Images/logos/logo-final.jpeg" width='100px' hieght='100px' alt="" srcset="">
                 <p>
-                    Greetings from Al Sahara Group of Companies. Sincere gratitude and thanks to all our valuable. Read more >>
+                    Greetings from Al Sahara Group of Companies. Sincere gratitude and thanks to all our valuable.
+                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/message-from-ceo.php">Read more >></a> <br>
                     Privacy Policy
                 </p>
             </div>
@@ -12,50 +13,52 @@
                 <h2>Manpower Supply Services</h2>
                 <ul>
                     <li>
-                        <a href="#">Civil</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/civil.php">Civil</a>
                     </li>
                     <li>
-                        <a href="#">CCTV</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/cctv.php">CCTV</a>
                     </li>
                     <li>
-                        <a href="#">Hospitality</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/hospitality.php">Hospitality</a>
                     </li>
                     <li>
-                        <a href="#">Access Control</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/access-control.php">Access Control</a>
                     </li>
                 </ul>
             </div>
             <div class="col-md-3 areas-of-expertise">
-                <h2>Manpower Supply Services</h2>
+                <h2>Areas of Expertise</h2>
                 <ul>
                     <li>
-                        <a href="#">Civil</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/civil.php">Civil</a>
                     </li>
                     <li>
-                        <a href="#">CCTV</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/cctv.php">CCTV</a>
                     </li>
                     <li>
-                        <a href="#">Hospitality</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/hospitality.php">Hospitality</a>
                     </li>
                     <li>
-                        <a href="#">Access Control</a>
+                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/access-control.php">Access Control</a>
                     </li>
                 </ul>
             </div>
             <div class="col-md-3 footer-contact-us">
-                <h2>Manpower Supply Services</h2>
+                <h2>Contact Us</h2>
                 <ul>
                     <li>
-                        <a href="#">Civil</a>
+                        <b>Tel:</b> +97165322336
                     </li>
                     <li>
-                        <a href="#">CCTV</a>
+                        <b>Mob:</b> +971 55 106 1234
                     </li>
                     <li>
-                        <a href="#">Hospitality</a>
+                        <b>email:</b>  info.dpellc@gmail.com
+
+
                     </li>
                     <li>
-                        <a href="#">Access Control</a>
+                        www.sahara-uae.com
                     </li>
                 </ul>
             </div>

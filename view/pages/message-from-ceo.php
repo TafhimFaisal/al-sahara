@@ -1,5 +1,6 @@
 <div class="container">
     <div class="message-from-ceo">
+        <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/CEO/ceo.jpeg" hieght="200px" width="200px" alt="" srcset="">
         <h1> Message From CEO </h1>
 
         <p>
