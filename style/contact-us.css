@@ -1,0 +1,16 @@
+.contact-us {
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding-top: 90px;
+    padding-bottom: 135px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.contact-us h1,.contact-us h2{
+    font-weight: 100;
+}

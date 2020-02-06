@@ -1,0 +1,16 @@
+.message-from-ceo{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding-top: 90px;
+    padding-bottom: 135px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.message-from-ceo h1,.message-from-ceo h2{
+    font-weight: 100;
+}
