@@ -1,4 +1,4 @@
-.civil{    
+.access-controll {
     height: auto;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,6 @@
     font-weight: 100;
 }
 
-.civil h1,.civil h2{
+.access-controll h1,.access-controll h2{
     font-weight: 100;
 }

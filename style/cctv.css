@@ -1,4 +1,4 @@
-.civil{    
+.cctv {
     height: auto;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,6 @@
     font-weight: 100;
 }
 
-.civil h1,.civil h2{
+.cctv h1,.cctv h2{
     font-weight: 100;
 }
