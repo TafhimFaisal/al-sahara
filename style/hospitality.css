@@ -1,0 +1,16 @@
+.hospitality{
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    padding-top: 90px;
+    padding-bottom: 135px;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+.hospitality h1,.hospitality h2{
+    font-weight: 100;
+}
