@@ -25,7 +25,7 @@
                 
                     <div class="email">
                         <div class="email-icon"><i class="fa fa-envelope" aria-hidden="true"></i></div>
-                        <p> info.dpellc@gmail.com </p>
+                        <p> Info@sahara-uae.com </p>
                     </div>
                 </div>
 

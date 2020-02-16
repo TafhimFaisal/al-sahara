@@ -53,9 +53,7 @@
                         <b>Mob:</b> +971 55 106 1234
                     </li>
                     <li>
-                        <b>email:</b>  info.dpellc@gmail.com
-
-
+                        <b>email:</b>  Info@sahara-uae.com
                     </li>
                     <li>
                         www.sahara-uae.com

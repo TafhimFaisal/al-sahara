@@ -10,7 +10,7 @@
                     City Center Sector
                     Al Karama, Nakhel-01, Ajman, UAE<br>
                     <span class="contactLabel">P.O Box:</span> 239028<br>
-                    <span class="contactLabel">Email :</span> info.dpellc@gmail.com<br>
+                    <span class="contactLabel">Email :</span> Info@sahara-uae.com<br>
                     <span class="contactLabel">Web:</span> www.sahara-uae.com<br>
                     <span class="contactLabel">Phone :</span> +971 6 53 22 336<br>
                 </p>
