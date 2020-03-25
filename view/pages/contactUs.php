@@ -18,7 +18,10 @@
         </div>
 		<div class="col-md-8">
 			<div class="contact-us-form ">
-          <form action="http://<?=$_SERVER['HTTP_HOST']?>/email/email.php" method="post">
+          <form action="http://<?=$_SERVER['HTTP_HOST']?>/email/email.php" 
+                enctype="multipart/form-data" 
+                method="post"
+            >
               <div class="form-group">
                 <label class="control-label col-sm-2" for="fname">Name:</label>
                 <div class="col-sm-10">          
@@ -43,8 +46,14 @@
                   <textarea class="form-control" rows="5" id="massage" name="massage"></textarea>
                 </div>
               </div>
+              
+              <div class="custom-file col-sm-offset-2 col-sm-10">
+                <input type="file" name="CV" class="custom-file-input" id="validatedCustomFile" required>
+                <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
+                <div class="invalid-feedback"></div>
+              </div>
               <div class="form-group">        
-                <div class="col-sm-offset-2 col-sm-10">
+                <div class="col-sm-offset-2 col-sm-10 mt-3">
                   <button type="submit" name='submit' class="btn btn-default">Submit</button>
                 </div>
               </div>
