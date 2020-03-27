@@ -4,11 +4,12 @@
 
         <div class="row">
             
-            <div class="col-2">
-                <img class="mt-3" src="http://<?=$_SERVER['HTTP_HOST']?>/Images/logos/logo-final.jpeg" height="100px" width="100px" alt="" srcset="">
+            <div class="col-3">
+                <img class="mt-3 ml-4" src="http://<?=$_SERVER['HTTP_HOST']?>/Images/logos/logo-final.jpeg" height="100px" width="100px" alt="" srcset="">
+                <br><small><b>AL Sahara Manpower Supply</b></small>
             </div>
             
-            <div class="col-10 contact-info mt-2">
+            <div class="col-9 contact-info mt-2">
 
                 <div class="social-midia-icons">
                     <i class="fab fa-facebook-square"></i>

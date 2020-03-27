@@ -15,7 +15,7 @@
 
             <div class="col-md-6">
                 <div class="section-6-button">
-                    <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-warning btn-lg text-white rounded-pill">contuct us</a>
+                    <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-warning btn-lg text-white rounded-pill">GET A QUOTE</a>
                 </div>
             </div>
 

@@ -19,6 +19,9 @@
                 <h2>Mechanical, Electrical and Plumbing(MEP)</h2>
                 <p>Providing qualified electrical professionals for any type of commercial works for short & long term basis.</p>
             </div>
+            <div class="col-md-12 d-flex justify-content-around">
+                <a role='button' href="#" type="button" class="btn btn-warning btn-lg text-white rounded-pill">Reade More</a>
+            </div>
         </div>
 
     </div>

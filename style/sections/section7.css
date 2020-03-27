@@ -1,0 +1,32 @@
+.service-box-last{
+    border: #918989 solid 1px;
+    margin: 5px;
+    height: 150px;
+    width: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-box-last img{
+    height: 100%;
+    width: 100%;
+}
+.service-name{
+    width:100%;
+    text-align: center;
+}
+.service-section-head{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    padding: 10px 20px 20px 90px;
+    text-align: center;
+}
+
+
+.service-section-head h2 {
+    border-bottom: solid black .5px;
+    padding-bottom: 10px;
+}

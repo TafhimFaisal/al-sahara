@@ -7,3 +7,15 @@
     width: 100%;
     /* margin-top: 100px; */
 }
+
+@media only screen and (min-width: 2560px) {
+    .banner {
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        height: 360px;
+        width: 100%;
+        /* margin-top: 100px; */
+    }
+  }
