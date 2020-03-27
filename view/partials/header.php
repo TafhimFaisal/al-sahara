@@ -35,7 +35,7 @@
                         </div>
 
                         <div class="col-md-2">
-                            <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-dark btn-md text-white rounded-pill">contuct us</a>
+                            <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-dark btn-md text-white rounded-pill">GAT A QUOTE</a>
                         </div>
 
                     </div>

@@ -5,8 +5,11 @@
             
             <div class="col-md-6">
                 <div class="section-6-content">
-                    <h2>Wanna Talk To Us?</h2>
-                    <p> Please feel free to contact us for all kind of manpower supply requirements. </p>
+                    <!-- <h2>Wanna Talk To Us?</h2>
+                    <p> Please feel free to contact us for all kind of manpower supply requirements. </p> -->
+                    <h2> Need Help ? </h2>
+                    <p>Please feel free to contact us. We will get back to you or just call us now
+                    <br><b>Emale:</b> info@sahara-uae.com | <b>Phone:</b> +97165322336</p>
                 </div>
             </div>
 

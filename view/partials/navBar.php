@@ -1,8 +1,8 @@
 <nav class="main-header navbar navbar-expand-md navbar-light navbar-white">
     <div class="container">
-        <a href="http://<?=$_SERVER['HTTP_HOST']?>" class="navbar-brand">
-        <span class="brand-text font-weight-light"><b>Home</b></span>
-        </a>
+        <!-- <a href="http://" class="navbar-brand">
+            <span class="brand-text"><b>Home</b></span>
+        </a> -->
         
         <button class="navbar-toggler order-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -11,6 +11,7 @@
         <div class="collapse navbar-collapse order-3" id="navbarCollapse">
         <ul class="navbar-nav">
             <li class="nav-item">
+                <a href="http://<?=$_SERVER['HTTP_HOST']?>" class="nav-link"><b>Home</b></a>
             </li>
             <li class="nav-item">
                 <a href="http://<?=$_SERVER['HTTP_HOST']?>/about-us.php" class="nav-link"><b>About Us</b></a>
