@@ -16,13 +16,13 @@
                         <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/civil.php">Civil</a>
                     </li>
                     <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/cctv.php">CCTV</a>
+                        <a href="#">MEP</a>
                     </li>
                     <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/hospitality.php">Hospitality</a>
+                        <a href="#">Cleaning  / Hospitality / Factory </a>
                     </li>
                     <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/access-control.php">Access Control</a>
+                        <a href="#">Helper</a>
                     </li>
                 </ul>
             </div>
@@ -30,16 +30,19 @@
                 <h2>Areas of Expertise</h2>
                 <ul>
                     <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/civil.php">Civil</a>
+                        <a href="#">Civil Construction </a>
+                    </li>
+                    <li>
+                        <a href="#">Facilities Management </a>
+                    </li>
+                    <li>
+                        <a href="#">Mechanical, Electrical & Plumbing</a>
+                    </li>
+                    <li>
+                        <a href="#">Logistics</a>
                     </li>
                     <li>
                         <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/cctv.php">CCTV</a>
-                    </li>
-                    <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/hospitality.php">Hospitality</a>
-                    </li>
-                    <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/access-control.php">Access Control</a>
                     </li>
                 </ul>
             </div>
