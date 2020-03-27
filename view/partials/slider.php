@@ -9,7 +9,7 @@
       <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/work8.jpg" height="600px" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block mb-5">
         <h2 class="text-light">Professional Manpower Supply</h2>
-        <p> <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-outline-dark btn-lg rounded-pill">Contact Us</a> </p>
+        <p> <a role='button' href="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" type="button" class="btn btn-outline-light btn-lg rounded-pill">Contact Us</a> </p>
       </div>
     </div>
     <div class="carousel-item">
