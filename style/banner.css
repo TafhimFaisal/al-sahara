@@ -12,9 +12,8 @@
     .banner {
         background-attachment: fixed;
         background-size: cover;
-        background-position: center;
+        background-position-y: -160px;
         background-repeat: no-repeat;
-        height: 360px;
         width: 100%;
         /* margin-top: 100px; */
     }

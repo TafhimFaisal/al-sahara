@@ -47,11 +47,6 @@
                 </div>
               </div>
               
-              <div class="custom-file col-sm-offset-2 col-sm-10">
-                <input type="file" name="CV" class="custom-file-input" id="validatedCustomFile" required>
-                <label class="custom-file-label" for="validatedCustomFile">Choose file...</label>
-                <div class="invalid-feedback"></div>
-              </div>
               <div class="form-group">        
                 <div class="col-sm-offset-2 col-sm-10 mt-3">
                   <button type="submit" name='submit' class="btn btn-default">Submit</button>
