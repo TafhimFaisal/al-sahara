@@ -12,38 +12,20 @@
             <div class="col-md-3 manpower-supply-services">
                 <h2>Manpower Supply Services</h2>
                 <ul>
-                    <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/civil.php">Civil</a>
-                    </li>
-                    <li>
-                        <a href="#">MEP</a>
-                    </li>
-                    <li>
-                        <a href="#">Cleaning  / Hospitality / Factory </a>
-                    </li>
-                    <li>
-                        <a href="#">Helper</a>
-                    </li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/civil.php">Civil</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/mechanical.php">MEP</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/cleaning.php">Cleaning / Hospitality / Factory </a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/hospitality.php">Helper</a></li>
                 </ul>
             </div>
             <div class="col-md-3 areas-of-expertise">
                 <h2>Areas of Expertise</h2>
                 <ul>
-                    <li>
-                        <a href="#">Civil Construction </a>
-                    </li>
-                    <li>
-                        <a href="#">Facilities Management </a>
-                    </li>
-                    <li>
-                        <a href="#">Mechanical, Electrical & Plumbing</a>
-                    </li>
-                    <li>
-                        <a href="#">Logistics</a>
-                    </li>
-                    <li>
-                        <a href="http://<?=$_SERVER['HTTP_HOST']?>/services/cctv.php">CCTV</a>
-                    </li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/areas-of-expertise/civil-construction.php">Civil Construction </a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/areas-of-expertise/facilities-management.php">Facilities Management </a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/areas-of-expertise/mechanical,electrical&plumbing.php">Mechanical, Electrical & Plumbing</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/areas-of-expertise/logistics.php">Logistics</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/areas-of-expertise/cctv.php">CCTV</a></li>
                 </ul>
             </div>
             <div class="col-md-3 footer-contact-us">

@@ -1,3 +1,23 @@
 .home-slider {
-    height: 400px;
+}
+
+.slider-text {
+    font-weight: bolder;
+    color: black;
+}
+.slider-text-1{
+}
+
+.slider-caption-container{
+    background: linear-gradient(to right, rgba(255,0,0,0), rgb(224, 219, 219),rgba(255,0,0,0));
+    border-radius: 20px;
+    height: 130px;
+}
+
+.slider-text-2{
+
+}
+
+.slider-text-3{
+
 }
