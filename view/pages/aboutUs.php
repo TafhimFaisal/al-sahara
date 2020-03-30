@@ -1,6 +1,6 @@
 <div class="container about-us">
 
-    <h1> ABOUT US </h1>
+    <h1 class="about-us-head"> ABOUT US </h1>
     <div class="row">
         
         <div class="col-md-6">
