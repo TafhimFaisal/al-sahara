@@ -25,7 +25,7 @@
             </div>
             <div class="col-md-3">
                 <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/hos.jpg">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/hos.png">
                 </div>
                 <div class="service-name">
                     Hospitality Industry Manpower Supply
