@@ -9,7 +9,15 @@
             <div class="col-md-2"></div>
             <div class="col-md-3">
                 <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/C11.png">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/con2.png">
+                </div>
+                <div class="service-name">
+                    Construction Manpower Supply
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="service-box-last">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/mac2.png">
                 </div>
                 <div class="service-name">
                     Mechanical Manpower Supply
@@ -17,18 +25,10 @@
             </div>
             <div class="col-md-3">
                 <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/C12.png">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/hos.jpg">
                 </div>
                 <div class="service-name">
                     Hospitality Industry Manpower Supply
-                </div>
-            </div>
-            <div class="col-md-3">
-                <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/C13.png">
-                </div>
-                <div class="service-name">
-                    Construction Manpower Supply
                 </div>
             </div>
             
@@ -36,7 +36,7 @@
 
             <div class="col-md-3 mt-4">
                 <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/C14.png">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/pac.png">
                 </div>
                 <div class="service-name">
                     Factory / Packing Manpower Supply
@@ -44,7 +44,7 @@
             </div>
             <div class="col-md-3 mt-4">
                 <div class="service-box-last">
-                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/C15.png">
+                    <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/clean.png">
                 </div>
                 <div class="service-name">
                     Cleaning / Helper Manpower Supply

@@ -12,19 +12,20 @@
             <div class="col-9 contact-info mt-2">
 
                 <div class="social-midia-icons">
-                    <i class="fab fa-facebook-square"></i>
-                    <i class="fab fa-instagram"></i>
-                    <i class="fab fa-twitter-square"></i>
+                    <a class="social-midia" href="https://www.facebook.com/alsaharahr"><i class="fab fa-facebook-square"></i></a>
+                    <a class="social-midia" href="https://www.instagram.com/alsahara2017/"><i class="fab fa-instagram"></i></a>
+                    <a class="social-midia" href="https://twitter.com/SAHARAMANPOWER"><i class="fab fa-twitter-square"></i></a>
+                    <a class="social-midia" href="https://www.linkedin.com/in/al-sahara-manpower-supply-6138b4157/"><i class="fab fa-linkedin"></i></a>
                 </div>
                 
                 <div class="contact-info-header mt-4">
 
                     <div class="row">
-                        <div class="col-md-2"></div>
-                        <div class="col-md-4">
+                        <div class="col-md-1"></div>
+                        <div class="col-md-5">
                             <div class="phone">
                                 <div class="phone-icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
-                                <p>+97165322336</p>
+                                <p>+97165322336,+971527122207</p>
                             </div>
                         </div>
 

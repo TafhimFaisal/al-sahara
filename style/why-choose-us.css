@@ -1,16 +1,45 @@
-.why-choose-us{
-    height: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: justify;
-    padding-top: 90px;
-    padding-bottom: 135px;
-    font-size: 25px;
-    font-weight: 100;
+.section-why-choose-us h2{
+    font-weight: bolder;
+    color: #fd7e14;
+    border-bottom: chocolate solid 1px;
+    padding: 20px 0px;
+    font-size: 20px;
+    padding: 30px;
+
+}
+.section-why-choose-us{
+    /* margin: 50px 0px */
 }
 
-.why-choose-us h1{
-    font-weight: 100;
+.why-choose-us-sections img{ 
+    width: 100%;
+    height: 100%;
+    padding: 30px;
+}
+.section-why-choose-us p{
+    font-size: 15px;
+    color: #999898;
+    padding: 30px;
+    text-align: justify;
+
+}
+
+
+.section-1-why-choose-us{
+    
+}
+.section-2-why-choose-us{
+    background-color: #e6e6e6;
+}
+.section-3-why-choose-us{
+}
+.section-4-why-choose-us{
+    background-color: #e6e6e6;
+}
+.section-5-why-choose-us{
+}
+.section-6-why-choose-us{
+    background-color: #e6e6e6;
+}
+.section-7-why-choose-us{
 }
