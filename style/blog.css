@@ -1,0 +1,30 @@
+.blogs{
+    padding: 50px;
+}
+.blog {
+    padding: 50px;
+}
+.blog img {
+    padding: 50px;
+}
+
+.blog p{
+    padding: 20px 50px;
+    text-align: justify;
+}
+
+.blog h2 {
+    font-weight: bolder;
+    color: chocolate;
+    border-bottom: chocolate 1px solid;
+    padding: 30px 10px;
+}
+
+.date,.writer{
+    color: rgb(214, 131, 71);
+    font-weight: bold;
+    font-size: 15px;
+}
+.blog-1{}
+.blog-2{}
+.blog-3{}
