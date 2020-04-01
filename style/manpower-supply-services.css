@@ -4,12 +4,14 @@
 .manpower-supply-services-section {
     margin: 50px;   
     text-align: justify;
+    color: #777676;
 }
 .manpower-supply-services-section b,.manpower-supply-services-section h2 {
     color: chocolate;
     text-align: left;
     border-bottom: chocolate 1px solid;
     font-weight: bolder;
+
 }
 
 
