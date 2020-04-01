@@ -12,7 +12,7 @@
                     <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/con2.png">
                 </div>
                 <div class="service-name">
-                    Construction Manpower Supply
+                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/civil.php">Construction Manpower Supply</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -20,7 +20,7 @@
                     <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/mac2.png">
                 </div>
                 <div class="service-name">
-                    Mechanical Manpower Supply
+                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/mechanical.php">Mechanical Manpower Supply</a>
                 </div>
             </div>
             <div class="col-md-3">
@@ -28,7 +28,7 @@
                     <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/hos.png">
                 </div>
                 <div class="service-name">
-                    Hospitality Industry Manpower Supply
+                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/hospitality.php">Hospitality Industry Manpower Supply</a>
                 </div>
             </div>
             
@@ -39,7 +39,7 @@
                     <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/pac.png">
                 </div>
                 <div class="service-name">
-                    Factory / Packing Manpower Supply
+                <a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/factory.php">Factory / Packing Manpower Supply</a>
                 </div>
             </div>
             <div class="col-md-3 mt-4">
@@ -47,7 +47,7 @@
                     <img src="http://<?=$_SERVER['HTTP_HOST']?>/Images/service/clean.png">
                 </div>
                 <div class="service-name">
-                    Cleaning / Helper Manpower Supply
+                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/cleaning.php">Cleaning / Helper Manpower Supply</a>
                 </div>
             </div>
 

@@ -1,5 +1,5 @@
 <?php 
     $page = 'man-power-supply/access-control.php';
-    $image = '/about-us-banner.jpg';
+    $image = 'Manpowersupply-banner.png';
     include './../view/layouts/services_page_layout.php'; 
 ?>

@@ -1,5 +1,5 @@
 <?php 
-    $page = 'man-power-supply/access-control.php';
-    $image = '/about-us-banner.jpg';
+    $page = 'areas-of-expertise/logistics.php';
+    $image = 'exparties.jpg';
     include './../view/layouts/services_page_layout.php'; 
 ?>

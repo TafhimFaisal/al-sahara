@@ -1,4 +1,4 @@
-<div class="container">
+<!-- <div class="container">
    <div class="civil">
        <h2> CONSTRUCTION – MANPOWER SUPPLY SERVICES </h2>
        <p>
@@ -27,7 +27,10 @@
 
    </div> 
 
+</div> -->
+<div class="manpower-supply-services manpower-supply-services-section">
+    <?php include '../view/pages/man-power-supply-sections/section-2.php'?>
 </div>
-
-
-
+<div class="container">
+    <?php include './../view/pages/sections/section-7.php'?>
+</div>

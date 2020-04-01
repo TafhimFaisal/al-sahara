@@ -13,8 +13,8 @@
     text-align: right;
 }
 
-.contact-info-header p {
-    font-size: 21px;
+.contact-info-header p,.number {
+    font-size: 24px;
     font-weight: 100;
 }
 

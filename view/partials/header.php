@@ -21,11 +21,16 @@
                 <div class="contact-info-header mt-4">
 
                     <div class="row">
-                        <div class="col-md-1"></div>
-                        <div class="col-md-5">
-                            <div class="phone">
-                                <div class="phone-icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
-                                <p>+97165322336,+971527122207</p>
+                        <div class="col-md-6">
+                            <div class="row">
+                                <div class="phone col-md-6">
+                                    <div class="phone-icon"><i class="fa fa-phone" aria-hidden="true"></i></div>
+                                    <span class="number">+97165322336</span>
+                                </div>
+                                <div class="phone col-md-6">
+                                    <div class="phone-icon"><i class="fas fa-mobile"></i></div>
+                                    <span class="number">+971527122207</span>
+                                </div>
                             </div>
                         </div>
 

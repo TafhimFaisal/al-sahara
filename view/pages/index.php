@@ -4,4 +4,7 @@
 <?php include './view/pages/sections/section-4.php'?>
 <?php include './view/pages/sections/section-5.php'?>
 <?php include './view/pages/sections/section-6-contactUs.php'?>
+<div class="container">
+    <?php include './view/pages/sections/section-7.php'?>
+</div>
 
