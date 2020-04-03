@@ -12,10 +12,10 @@
             <div class="col-md-3 manpower-supply-services">
                 <h2>Manpower Supply Services</h2>
                 <ul>
-                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/civil.php">Civil</a></li>
-                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/mechanical.php">MEP</a></li>
-                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/cleaning.php">Cleaning / Hospitality / Factory </a></li>
-                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/manpower-supply-services/hospitality.php">Helper</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/civil.php">Civil</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/mechanical.php">MEP</a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/cleaning.php">Cleaning / Hospitality / Factory </a></li>
+                    <li><a href="http://<?=$_SERVER['HTTP_HOST']?>/man-power-supply/cleaning.php">Helper</a></li>
                 </ul>
             </div>
             <div class="col-md-3 areas-of-expertise">
@@ -42,6 +42,10 @@
                     </li>
                     <li>
                         www.sahara-uae.com
+                    </li>
+                    <li>
+                        Looking For Jobs ?<br>
+                        <a role='button'  href="mailto:Info@sahara-uae.com" type="button" class="btn btn-outline-light">Send Us Your CV</a>
                     </li>
                 </ul>
             </div>
