@@ -6,7 +6,7 @@
             
             <div class="col-3">
                 <img class="ml-4" src="http://<?=$_SERVER['HTTP_HOST']?>/Images/logos/logo-final.jpeg" height="100px" width="100px" alt="" srcset="">
-                <br><h6 class="company_name">AL Sahara <br> Manpower Supply</h6>
+                <br><h6 class="company_name"> <span style="font-size:15px" > AL Sahara </span> <br> <span class="text-primary" style="font-size:18px"> Manpower Supply </span></h6>
             </div>
             
             <div class="col-9 contact-info mt-2">
@@ -34,7 +34,7 @@
 
                 </div>
                 
-                <div class="contact-info-header mt-1">
+                <div class="contact-info-header mt-2">
 
                     <div class="row">
                         <div class="col-md-6">
