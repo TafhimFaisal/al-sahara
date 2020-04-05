@@ -35,3 +35,9 @@
 }
 
 
+
+.company_name {
+    font-weight: bolder;
+    text-align: center;
+    margin-right: 120px;
+}
