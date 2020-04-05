@@ -44,8 +44,8 @@
                                     <span class="number">+97165322336</span>
                                 </div>
                                 <div class="phone col-md-6">
-                                    <div class="phone-icon"><i class="fas fa-mobile"></i></div>
-                                    <span class="number">+971527122207</span>
+                                    <div class="phone-icon mobile-number bg-primary"><i class="fas fa-mobile"></i></div>
+                                    <span class="number text-primary">+971527122207</span>
                                 </div>
                             </div>
                         </div>

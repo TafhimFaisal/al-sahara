@@ -9,7 +9,7 @@
                     <p> Please feel free to contact us for all kind of manpower supply requirements. </p> -->
                     <h2> Need Help ? </h2>
                     <p>Please feel free to contact us. We will get back to you or just call us now
-                    <br><b>Emale:</b> info@sahara-uae.com | <b>Phone:</b> +97165322336 | <b>Mobile:</b> +971527122207</p>
+                    <br><b>Emale:</b> info@sahara-uae.com | <b>Phone:</b> +97165322336 | <span class="btn btn-primary btn-sm" style="padding:2px 2px"> <b>Mobile:</b> +971527122207 </span></p>
                 </div>
             </div>
 

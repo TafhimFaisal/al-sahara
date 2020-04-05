@@ -5,7 +5,7 @@
                 <img src="/Images/logos/logo-final.jpeg" width='100px' hieght='100px' alt="" srcset="">
                 <p>
                     Greetings from Al Sahara Group of Companies. Sincere gratitude and thanks to all our valuable.
-                    <a href="http://<?=$_SERVER['HTTP_HOST']?>/message-from-ceo.php">Read more >></a> <br>
+                    <a class="text-primary" href="http://<?=$_SERVER['HTTP_HOST']?>/message-from-ceo.php">Read more >></a> <br>
                     Privacy Policy
                 </p>
             </div>
@@ -34,8 +34,8 @@
                     <li>
                         <b>Tel:</b> +97165322336
                     </li>
-                    <li>
-                        <b>Mob:</b> +971 55 106 1234
+                    <li class="btn btn-primary btn-sm" style="padding:2px 2px">
+                        <b>Mob:</b> +971527122207
                     </li>
                     <li>
                         <b>email:</b>  Info@sahara-uae.com
