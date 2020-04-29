@@ -1,14 +1,14 @@
 <?php
 
-    // $to = 'Info@sahara-uae.com';
-    // $subject = 'sahara-uae';
-    // $text   =   'Name:'.$_POST['name'].
-    //             'Phone :'.$_POST['phone'].
-    //             'Massage :'.$_POST['massage'];
-    // $header= $_POST['email'];
+    $to         =   'info@sahara-uae.com';
+    $subject    =   'sahara-uae';
+    $text       =   'Name:'.$_POST['name'].
+                    'Phone :'.$_POST['phone'].
+                    'Massage :'.$_POST['massage'];
 
-    // mail($to,$subject,$text,$header);
-    // header('Location:http://'.$_SERVER["HTTP_HOST"].'/contact-us.php');
+    $header     =   $_POST['email'];
 
-    var_dump($_FILES["CV"]);
+    mail($to,$subject,$text,$header);
+    header('Location:http://'.$_SERVER["HTTP_HOST"].'/contact-us.php');
+
 ?>

@@ -1,3 +1,20 @@
+<?php
+  if($_POST['name']){
+
+      $to         =   'info@sahara-uae.com';
+      $subject    =   'sahara-uae';
+      $text       =   'Name : '.$_POST['name']." ".
+                      'Phone : '.$_POST['phone']." ".
+                      'Massage : '.$_POST['massage'];
+
+      $header     =   $_POST['email'];
+
+      mail($to,$subject,$text,$header);
+      header('Location:http://'.$_SERVER["HTTP_HOST"].'/contact-us.php');
+
+    }
+      
+?>
 <div class="container">
 
     <div class="container contact">
@@ -18,7 +35,7 @@
         </div>
 		<div class="col-md-8">
 			<div class="contact-us-form ">
-          <form action="http://<?=$_SERVER['HTTP_HOST']?>/email/email.php" 
+          <form action="http://<?=$_SERVER['HTTP_HOST']?>/contact-us.php" 
                 enctype="multipart/form-data" 
                 method="post"
             >
