@@ -1,10 +1,41 @@
 
+<div class="my-5 py-5">
 
-<?php foreach ($jobVacancy as $key => $job) { ?>
+    <table id="example" class="table table-bordered table-hover" style="width:100%">
+        <thead>
+            <tr>
+                <th>Sl</th>
+                <th>Position</th>
+                <th>Job Description</th>
+                <th>Requirments</th>
+                <th>Salary</th>
+                <th width="65">Send</th>
+            </tr>
+        </thead>
+        <tbody>
+            <?php foreach ($jobVacancy as $key => $job) { ?>
+                <tr>
+                    <td><?php echo $key+1 ?></td>
+                    <td><?php echo $job['position'] ?></td>
+                    <td><?php echo $job['description'] ?></td>
+                    <td><?php echo $job['requirments'] ?></td>
+                    <td><?php echo $job['salary'] ?></td>
+                    <td><a role='button'  href="mailto:Info@sahara-uae.com" type="button" class="btn btn-outline-success">Send CV</a></td>
+                </tr>
+            <?php } ?>
+        </tbody>
+        <tfoot>
+            <tr>
+                <th>Sl</th>
+                <th>Position</th>
+                <th>Job Description</th>
+                <th>Requirments</th>
+                <th>Salary</th>
+                <th>Send</th>
+            </tr>
+        </tfoot>
+    </table>
+</div>
+
     
-    <div class="m-3 p-3 border border-warning rounded">
-        <h1> <?php echo $job['job_Title'] ?> </h1>
-        <p> <?php echo $job['job_discription'] ?> </p>
-    </div>
     
-<?php } ?>
